@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{5346b6a6-5775-4601-9fbf-40b8cb3395b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\05.Resource">
+      <UniqueIdentifier>{57a8be3e-6c40-4dd1-8985-2fb0b4ebacfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\01.Core">
+      <UniqueIdentifier>{1e183ace-5792-4932-8fdd-bdd63d8ffbd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\02.Manager">
+      <UniqueIdentifier>{799009ab-44ea-4eef-abf7-503890f338e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\02.Manager\KeyMgr">
+      <UniqueIdentifier>{5141b239-98bc-458d-bdf7-b8f244238f89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\03.Object">
+      <UniqueIdentifier>{3d293f94-4026-467f-9d21-404a7954877f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\04.Scene">
+      <UniqueIdentifier>{fe5165c2-471a-4433-be82-1716ad0fa032}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Default">
+      <UniqueIdentifier>{91f7dcf2-db8a-460e-aeba-f2e56ceae38d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Default\리소스 파일">
+      <UniqueIdentifier>{8224c439-1c14-4beb-a4e4-a8b5cc050ea1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Default\소스 파일">
+      <UniqueIdentifier>{ba7af741-bb65-4f51-ac08-e007c817ad51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\02.Manager\SceneMgr">
+      <UniqueIdentifier>{a293a16f-9820-4034-be42-e73d4679dfd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\02.Manager\TimeMgr">
+      <UniqueIdentifier>{8ab9789d-3df7-45cb-b23e-726091a20a96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\02.Manager\PathMgr">
+      <UniqueIdentifier>{ff96084a-cf7a-4d3f-a440-e0d3b47e850d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\02.Manager\ResourceMgr">
+      <UniqueIdentifier>{6808b3f9-dfe6-4aa2-9e86-df37125989a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\02.Manager\EventMgr">
+      <UniqueIdentifier>{665327c4-331c-48ac-a4b1-0a53aedfe1d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\02.Manager\MouseMgr">
+      <UniqueIdentifier>{8307a683-5a45-4739-a464-f43034177603}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\06.Component">
+      <UniqueIdentifier>{db221a9f-06d1-48c1-8f03-97aff78e73b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\06.Component\MouseCollider">
+      <UniqueIdentifier>{a69ac648-f07b-4b72-b366-7093a13d8c39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\04.Scene\01.Scene_Start">
+      <UniqueIdentifier>{2981b6a9-9508-4caa-a0eb-70d2122c85dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\04.Scene\02.Scene_Blue">
+      <UniqueIdentifier>{9bc5c280-a910-493b-a445-0e49ec133307}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\06.Component\Animation">
+      <UniqueIdentifier>{8a9e5184-046e-426c-b00b-b9ad4a695d1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\06.Component\Animator">
+      <UniqueIdentifier>{02b1ac2b-06d7-49c2-93b1-cd3fbcf0f362}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\03.Object\BlueObject">
+      <UniqueIdentifier>{a2e1fbf3-fdb2-4ab2-995d-d99d3a6a4c47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\03.Object\BlueObject\BlueBG">
+      <UniqueIdentifier>{88896dc8-4a85-4ef8-a174-fcad310aee11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\03.Object\TitleObject">
+      <UniqueIdentifier>{8621b876-6407-45ac-8b25-88091f4b6f41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\03.Object\TitleObject\Setting">
+      <UniqueIdentifier>{9d5f4152-5656-4002-a2b0-0b0cc81a9368}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\03.Object\TitleObject\Book">
+      <UniqueIdentifier>{5bcdf0c0-f731-413d-950c-7339200589b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\02.Manager\SoundMgr">
+      <UniqueIdentifier>{593bd986-7d5d-4bf5-90bb-5ad2d37dd424}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\03.Object\UI">
+      <UniqueIdentifier>{0736a40c-279e-42e6-b1d4-548dbf14b468}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\03.Object\Camara">
+      <UniqueIdentifier>{b9c6a51f-9a21-4feb-a65f-d98c6e31de76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\03.Object\Camara\CameraDownButton">
+      <UniqueIdentifier>{7b8ceb3f-5154-4f8c-834e-685201337de1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\03.Object\Camara\CameraUpButton">
+      <UniqueIdentifier>{3c57b559-ed2b-438c-8a08-dccc0451c2a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\03.Object\UI_right">
+      <UniqueIdentifier>{13484cbb-d809-44bc-8008-9630ce0a2441}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\03.Object\BlueObject\Effect">
+      <UniqueIdentifier>{cbb65592-fb7b-41ae-b6a8-aa8bd73deb9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\00.Header">
+      <UniqueIdentifier>{06dcd23f-1d8f-4782-88be-ab59c56a1428}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\03.Object\Item">
+      <UniqueIdentifier>{4c664c27-2fcc-40c1-8f86-d15e2e57dbba}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="KeyMgr.h">
+      <Filter>Engine\02.Manager\KeyMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Core.h">
+      <Filter>Engine\01.Core</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>Default\리소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Default\리소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Default\리소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MyWinAPI.h">
+      <Filter>Default\리소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneMgr.h">
+      <Filter>Engine\02.Manager\SceneMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Engine\04.Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene_Start.h">
+      <Filter>Engine\04.Scene\01.Scene_Start</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeMgr.h">
+      <Filter>Engine\02.Manager\TimeMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="PathMgr.h">
+      <Filter>Engine\02.Manager\PathMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Res.h">
+      <Filter>Engine\05.Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Engine\05.Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Engine\05.Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceMgr.h">
+      <Filter>Engine\02.Manager\ResourceMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="EventMgr.h">
+      <Filter>Engine\02.Manager\EventMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="MouseMgr.h">
+      <Filter>Engine\02.Manager\MouseMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="MouseCollider.h">
+      <Filter>Engine\06.Component\MouseCollider</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Engine\06.Component\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Animator.h">
+      <Filter>Engine\06.Component\Animator</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene_Blue.h">
+      <Filter>Engine\04.Scene\02.Scene_Blue</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraDownButton.h">
+      <Filter>Engine\03.Object\Camara\CameraDownButton</Filter>
+    </ClInclude>
+    <ClInclude Include="BlueBG.h">
+      <Filter>Engine\03.Object\BlueObject\BlueBG</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraUpButton.h">
+      <Filter>Engine\03.Object\Camara\CameraUpButton</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundMgr.h">
+      <Filter>Engine\02.Manager\SoundMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h" />
+    <ClInclude Include="Inventory.h">
+      <Filter>Engine\03.Object\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="BlueBG_BitBlt.h" />
+    <ClInclude Include="Fade_InOut.h">
+      <Filter>Engine\03.Object\Camara</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>Engine\03.Object\UI_right</Filter>
+    </ClInclude>
+    <ClInclude Include="Book.h">
+      <Filter>Engine\03.Object\TitleObject\Book</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Engine\04.Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="MouseBubble.h">
+      <Filter>Engine\03.Object\BlueObject\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="cv.h">
+      <Filter>Engine\00.Header</Filter>
+    </ClInclude>
+    <ClInclude Include="define.h">
+      <Filter>Engine\00.Header</Filter>
+    </ClInclude>
+    <ClInclude Include="function.h">
+      <Filter>Engine\00.Header</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Engine\00.Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Moon.h">
+      <Filter>Engine\03.Object\BlueObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Balloon.h">
+      <Filter>Engine\03.Object\BlueObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Engine\03.Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemOnlyCollider.h">
+      <Filter>Engine\03.Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>Default\리소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="BlueBook.h">
+      <Filter>Engine\03.Object\TitleObject\Book</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="KeyMgr.cpp">
+      <Filter>Engine\02.Manager\KeyMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Core.cpp">
+      <Filter>Engine\01.Core</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneMgr.cpp">
+      <Filter>Engine\02.Manager\SceneMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Engine\04.Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Engine\03.Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene_Start.cpp">
+      <Filter>Engine\04.Scene\01.Scene_Start</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeMgr.cpp">
+      <Filter>Engine\02.Manager\TimeMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="PathMgr.cpp">
+      <Filter>Engine\02.Manager\PathMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Res.cpp">
+      <Filter>Engine\05.Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Engine\05.Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Engine\05.Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Default\소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceMgr.cpp">
+      <Filter>Engine\02.Manager\ResourceMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="EventMgr.cpp">
+      <Filter>Engine\02.Manager\EventMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="MouseCollider.cpp">
+      <Filter>Engine\06.Component\MouseCollider</Filter>
+    </ClCompile>
+    <ClCompile Include="MouseMgr.cpp">
+      <Filter>Engine\02.Manager\MouseMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Engine\06.Component\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Animator.cpp">
+      <Filter>Engine\06.Component\Animator</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene_Blue.cpp">
+      <Filter>Engine\04.Scene\02.Scene_Blue</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraDownButton.cpp">
+      <Filter>Engine\03.Object\Camara\CameraDownButton</Filter>
+    </ClCompile>
+    <ClCompile Include="BlueBG.cpp">
+      <Filter>Engine\03.Object\BlueObject\BlueBG</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraUpButton.cpp">
+      <Filter>Engine\03.Object\Camara\CameraUpButton</Filter>
+    </ClCompile>
+    <ClCompile Include="Book.cpp">
+      <Filter>Engine\03.Object\TitleObject\Book</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundMgr.cpp">
+      <Filter>Engine\02.Manager\SoundMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp" />
+    <ClCompile Include="Inventory.cpp">
+      <Filter>Engine\03.Object\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="BlueBG_BitBlt.cpp" />
+    <ClCompile Include="Fade_InOut.cpp">
+      <Filter>Engine\03.Object\Camara</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>Engine\03.Object\UI_right</Filter>
+    </ClCompile>
+    <ClCompile Include="MouseBubble.cpp">
+      <Filter>Engine\03.Object\BlueObject\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Moon.cpp">
+      <Filter>Engine\03.Object\BlueObject</Filter>
+    </ClCompile>
+    <ClCompile Include="function.cpp">
+      <Filter>Engine\00.Header</Filter>
+    </ClCompile>
+    <ClCompile Include="Balloon.cpp">
+      <Filter>Engine\03.Object\BlueObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Engine\03.Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemOnlyCollider.cpp">
+      <Filter>Engine\03.Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="BlueBook.cpp">
+      <Filter>Engine\03.Object\TitleObject\Book</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
